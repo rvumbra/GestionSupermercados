@@ -1,0 +1,54 @@
+#########################################################################
+#########################################################################
+##                                                                     ##
+## NOTA: ES ALTAMENTE RECOMENDABLE MAXIMIZAR LA CONSOLA DONDE SE       ##
+##	EJECUTE EL CÓDIGO DE ESTE PROYECTO.                                ##
+##                                                                     ##
+#########################################################################
+#########################################################################
+
+*********************
+*GestorSupermercados*
+*********************
+Este proyecto hace la función de un gestor de supermercados.
+
+Será capaz de realizar operaciones CRUD sobre la lista de
+supermercados y la lista de productos asociada a cada
+supermercado, así como el almacen de productos.
+
+También contará con la opción de restaurar la información de
+una copia de seguridad anterior así como generar una copia
+de seguridad nueva para el futuro, tanto de los supermercados
+como de los almacenes.
+
+-Habrá una serie de opciones de gestión:
+	####################################################################
+	####################################################################
+	## Almacen
+		1.- Añadir un nuevo producto al almacén.
+		2.- Editar un producto del almacén.
+		3.- Listar los productos del almacén.
+		4.- Eliminar un producto del almacén.
+		5.- Vaciar almacén.
+	## Supermercado
+		6.- Añadir un nuevo supermercado.
+		7.- Editar un supermercado.
+		    7.1.-Cambiar nombre del supermercado.
+		    7.2.-Añadir producto al supermercado.
+		    7.3.-Editar producto del supermercado.
+		    7.4.-Listar los productos del supermercado.
+		    7.5.-Quitar producto de un supermercado.
+		    7.6.-Vaciar lista de productos del supermercado.
+		8.- Listar los supermercados existentes.
+		9.- Eliminar un supermercado.
+		10.- Vaciar lista de supermercados.
+	## Restauración y copia de seguridad.
+		11.- Generar datos de prueba de un supermercado
+		12.- Restaurar copia de seguridad de un supermercado.
+		13.- Restaurar copia de seguridad del almacén.
+		14.- Actualizar copia de seguridad de todos los supermercados.
+		15.- Actualizar copia de seguridad de un supermercados.
+		16.- Actualizar copia de seguridad del almacén.
+	####################################################################
+	####################################################################
+		s.- Salir.
